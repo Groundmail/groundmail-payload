@@ -1,6 +1,6 @@
 # groundmail-payload
 
-[Payload CMS](https://payloadcms.com) email adapter for [Groundmail](https://groundmail.dev) — auth mail and `payload.sendEmail()` over the HTTP API.
+[Payload CMS](https://payloadcms.com) email adapter for [Groundmail](https://groundmail.dev?utm_source=github&utm_medium=readme&utm_campaign=groundmail-payload) — auth mail and `payload.sendEmail()` over the HTTP API.
 
 ## Install
 
@@ -34,7 +34,7 @@ Prefer Nodemailer? Use [`groundmail-nodemailer`](https://www.npmjs.com/package/g
 
 ## Docs
 
-https://docs.groundmail.dev/guides/payload
+https://docs.groundmail.dev/guides/payload?utm_source=github&utm_medium=readme&utm_campaign=groundmail-payload
 
 ## License
 
